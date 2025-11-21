@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://i.ibb.co/kgSXSr0w/Twitter-Cover.jpg](https://i.ibb.co/7tZZtMQN/moon-vaults.png" width="100%"/>
+  <img src="https://i.ibb.co/7tZZtMQN/moon-vaults.png" width="100%"/>
   <h2>Welcome to MoonVaults! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <p>Building MoonVaults.Fun</p>
 </div>
